@@ -1,10 +1,10 @@
 ## Hi there 👋
 
+i am Nguyễn Tuấn Hùng
+
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenTuanHungg&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
--->
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTuanHungg&layout=compact&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
